@@ -1,0 +1,11 @@
+id: 96e47005692040c19f1c5a98e29b4996
+annotation_type: index
+revision: '00001'
+annotations:
+  da0d0f06c542461e95b2b31a49c48288:
+    base: 638E.txt
+    Chapters:
+    - title: Mātṛkā
+      span:
+        start: 0
+        end: 242000
